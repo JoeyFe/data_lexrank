@@ -1,0 +1,6 @@
+Henry VIII was King of England from 1509 until his death in 1547.He is frequently characterised in his later life as a lustful, egotistical, harsh and insecure king.His disagreement with Pope Clement VII on the question of such an annulment led Henry to initiate the English Reformation, separating the Church of England from papal authority.He appointed himself the Supreme Head of the Church of England and dissolved convents and monasteries, for which he was excommunicated.Henry is also known as "the father of the Royal Navy," as he invested heavily in the navy, increasing its size from a few to more than 50 ships, and established the Navy Board.Domestically, Henry is known for his radical changes to the English Constitution, ushering in the theory of the divine right of kings.
+LexRank scores for sentences:
+[1.44973792 0.95519145 1.04801863 0.96674151 1.03365126 0.94982225
+ 1.04899582 0.90602709 0.81550384 1.         1.12694653 1.11084626
+ 0.93125106 1.03863643 0.93114634 0.83982903 1.         0.84438474
+ 1.00326985 1.        ]
